@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.principal{
+    width: 1500px;
+    height: 900px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    
+}
+ 
+.adote{
+    display: flex;
+    justify-content: flex-start;
+    background-color: rgb(97, 96, 96);
+    width: 800px;
+
+}
+
+.adote:hover{
+    color: black;
+}
+
+.adote h1{
+    color: rgba(255, 255, 0, 0.74);
+}
+
+.menu{
+    display: flex;
+    background-color:rgba(255, 255, 0, 0.74);
+    justify-content:space-evenly ;
+    width: 800px;
+    
+}
+
+.menu:hover{
+    color:blue;
+}
+
+
